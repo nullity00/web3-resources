@@ -18,6 +18,10 @@
 - [Eth builders](https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html)
 - [Solidity Docs](https://docs.soliditylang.org/en/develop/)
 
+#### ZKP Resources
+
+- [zkOne University](https://zku.one/)
+
 #### Best for Portfolio Projects
 
 - [Buildspace](https://buildspace.so/)
