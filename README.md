@@ -30,7 +30,7 @@
 
 #### Other Resources 
 
-- [Web3 Resources by Francesco Ciulla](https://github.com/FrancescoXX)
+- [Web3 Resources by Francesco Ciulla](https://github.com/FrancescoXX/free-Web3-resources)
 
 #### Hackathon websites
 
