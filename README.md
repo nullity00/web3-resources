@@ -1,5 +1,6 @@
 # List of Web3 resources
 
+- [LearnWeb3DAO](https://www.learnweb3.io/)
 - [Turbo Eth](https://gavofyork.gitbooks.io/turboethereum/content/)
 - [Smart Contract Engineer](https://www.smartcontract.engineer/)
 - [B9Lab](https://academy.b9lab.com/) 
@@ -26,6 +27,10 @@
 
 - [Buildspace](https://buildspace.so/)
 - [Speedrun eth](https://speedrunethereum.com/)
+
+#### Other Resources 
+
+- [Web3 Resources by Francesco Ciulla](https://github.com/FrancescoXX)
 
 #### Hackathon websites
 
