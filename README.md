@@ -32,6 +32,10 @@
 
 - [Web3 Resources by Francesco Ciulla](https://github.com/FrancescoXX/free-Web3-resources)
 
+#### Youtube Channels
+
+- [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+
 #### Hackathon websites
 
 - [Gitcoin](https://gitcoin.co/hackathon/)
