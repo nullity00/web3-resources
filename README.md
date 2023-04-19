@@ -28,4 +28,13 @@
 - [Finalists](https://github.com/nullity00/web3-resources/blob/main/Hackathon/Winners.md)
 - [Sites](https://github.com/nullity00/web3-resources/blob/main/Hackathon/Sites.md)
 
+### NewsLetters
+- Week In Ethereum
+- Block threat
+- Ikigai - Travis Kling
+- Developer DAO
+- Polygon Labs
+- Filecoin News
+- The Defiant
+
 

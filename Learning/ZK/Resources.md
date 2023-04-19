@@ -1,6 +1,6 @@
 ## ZKP Resources
 
-
+*   [MOOC](https://github.com/nullity00/web3-resources/tree/main/Learning/ZK/MOOC)
 *   [zkOne University](https://zku.one/)
 *   [ZKHackDev](https://zkhack.dev/whiteboard/)
 *   Semaphore Protocol - built on ZK [semaphore-protocol](https://github.com/semaphore-protocol)
