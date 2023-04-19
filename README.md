@@ -16,4 +16,14 @@
 - [EVM](https://github.com/nullity00/web3-resources/blob/main/Cool%20Projects/EVM.md)
 - [Wallets](https://github.com/nullity00/web3-resources/blob/main/Cool%20Projects/Wallet.md)
 
+### Funding
+
+- [Grants](https://github.com/nullity00/web3-resources/blob/main/Funding/Grants.md)
+- [VCs](https://github.com/nullity00/web3-resources/blob/main/Funding/VCs.md)
+
+### Hackathons
+
+- [Gallery](https://github.com/nullity00/Hackathon-projects)
+- 
+
 
