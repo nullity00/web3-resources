@@ -1,6 +1,6 @@
 ## Web3 Resources 
 
-[Jobs]() | [Data](https://github.com/nullity00/web3-resources/blob/main/Data/Sites.md) | [People][https://twitter.com/nullity00/following] | [Portfolio]() | [Non-EVM]() 
+[Jobs](https://github.com/nullity00/web3-resources/blob/main/Other/Jobs.md) | [Data](https://github.com/nullity00/web3-resources/blob/main/Data/Sites.md) | [People](https://twitter.com/nullity00/following) | [Portfolio](https://github.com/nullity00/web3-resources/blob/main/Other/Portfolio.md) | [Non-EVM](https://github.com/nullity00/web3-resources/blob/main/Other/Non-EVM.md) 
 
 ### Learn
 - [Solidity](https://github.com/nullity00/web3-resources/blob/main/Learning/SolidityResources.md)
