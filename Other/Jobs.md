@@ -1,9 +1,9 @@
-#### Internship/Mentorship
+# Internship/Mentorship
 
 *   [Kernel](https://kernel.community/en/)
 *   [Summer of Bitcoin](https://www.summerofbitcoin.org/)
 
-#### Web3 Jobs
+# Web3 Job Sites
 
 *   [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/)
 *   [RemoteOk](https://remoteok.com/remote-blockchain-jobs)

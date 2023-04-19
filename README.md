@@ -24,6 +24,8 @@
 ### Hackathons
 
 - [Gallery](https://github.com/nullity00/Hackathon-projects)
-- 
+- [Ideas](https://github.com/nullity00/web3-resources/blob/main/Hackathon/Ideas.md)
+- [Finalists](https://github.com/nullity00/web3-resources/blob/main/Hackathon/Winners.md)
+- [Sites](https://github.com/nullity00/web3-resources/blob/main/Hackathon/Sites.md)
 
 
