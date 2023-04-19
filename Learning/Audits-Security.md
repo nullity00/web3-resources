@@ -1,5 +1,4 @@
-## Audits & Security
-
+## Auditing
 
 *   [Challenges by Tincho](https://www.damnvulnerabledefi.xyz/)
 *   [Cipher Shastra](https://ciphershastra.com/)
@@ -15,23 +14,22 @@
 *   [Metamask Signature Types](https://metamask.github.io/test-dapp/)
 *   [https://mrstealyocrypto.xyz/](https://mrstealyocrypto.xyz/)
 *   [Resources](https://officercia.medium.com/all-resources-to-become-a-smart-contract-auditor-ff4a85c99c05) by Officer CIA
+*   [CTF Org](https://ctftime.org/)
+*   [SWC Registry](https://swcregistry.io/)
+*   [Solidity Scan](https://solidityscan.com/) by [Creds Shield](https://credshields.com/)
 
   
 
-Orgs / People
--------------
+## Orgs / People
 
 *   [Watch Pug](https://www.watchpug.org/)
 *   [Spearbit](https://spearbit.com/)
 *   [Sherlock](https://app.sherlock.xyz/audits/contests)
 *   [Code4Arena](https://code4rena.com/leaderboard/)
 *   [Hats Finance](https://app.hats.finance/vaults)
-*   [Starknet](https://starknet.io/) & [Cairo](https://www.cairo-lang.org/)
-*   [Stark Ware](https://starkware.co/)
 
   
 
-Bug Bounty
-----------
+## Bug Bounty
 
 [Hacken Proof](https://hackenproof.com/) , [Immunefi](https://immunefi.com/) , [Paradigm CTF](https://ctf.paradigm.xyz/challenges) , [0xMonaco](https://0xmonaco.ctf.paradigm.xyz/) , [Solidity contests](https://underhanded.soliditylang.org/) ,
