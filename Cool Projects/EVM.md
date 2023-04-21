@@ -15,3 +15,5 @@
 *   [Nethermind](https://github.com/NethermindEth/warp/) - Convert solidity to Cairo
 *   [Blocktorch](https://app.blocktorch.xyz/) - Contract Insights
 *   [Tenderly](https://tenderly.co/) - Smart contract dev platform
+*   [WhatsABI](https://github.com/shazow/whatsabi) - ABI from Unverified contracts [app](https://abi.w1nt3r.xyz/)
+*   [Pelta Shield](https://pelta.tech/) - Simulate Transactions

@@ -15,6 +15,9 @@
 - [ZKP](https://github.com/nullity00/web3-resources/blob/main/Learning/ZK/Resources.md)
 - [Auditing](https://github.com/nullity00/web3-resources/blob/main/Learning/Audits-Security.md)
 - [MEV](https://github.com/nullity00/web3-resources/blob/main/Learning/MEV-Bots.md)
+- [Cairo](https://github.com/nullity00/web3-resources/blob/main/Learning/Cairo.md)
+- [Huff]()
+
 
 
 ## Cool Projects
@@ -42,6 +45,7 @@
 
 
 ## NewsLetters
+
 - Week In Ethereum
 - Block threat
 - Ikigai - Travis Kling
@@ -49,5 +53,13 @@
 - Polygon Labs
 - Filecoin News
 - The Defiant
+
+## Other resources
+
+- [Bitcoin Curriculum by ChainCode](https://github.com/chaincodelabs/bitcoin-curriculum)
+- [Ethereum Developer Tools List by Consensys](https://github.com/ConsenSys/ethereum-developer-tools-list)
+- [Awesome Solidity by bkrem](https://github.com/bkrem/awesome-solidity)
+- [Resources by Frankie Fab](https://github.com/frankiefab100/Blockchain-Development-Resources)
+- [Awesome Blockchain by yjjnls](https://github.com/yjjnls/awesome-blockchain)
 
 

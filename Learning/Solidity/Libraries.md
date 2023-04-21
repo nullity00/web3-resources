@@ -1,0 +1,12 @@
+# Solidity Libraries
+
+- [Solmate](https://github.com/transmissions11/solmate)
+- [Solcurity](https://github.com/transmissions11/solcurity)
+- [Solbase](https://github.com/Sol-DAO/solbase)
+- [Solidity Array Generators](https://github.com/mds1/solidity-generators)
+- [Solidity Coverage](https://github.com/sc-forks/solidity-coverage)
+- [Oyente](https://github.com/enzymefinance/oyente)
+- [Medusa](https://github.com/crytic/medusa)
+- [Solhunt](https://github.com/iFrostizz/solhunt)
+- [Solplot](https://github.com/0xClandestine/solplot)
+- [Solgraph](https://github.com/raineorshine/solgraph)

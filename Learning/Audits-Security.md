@@ -13,10 +13,14 @@
 *   [Web3 Security](https://web3sec.notion.site/web3sec/Web3-security-ddaa8bf9a985494dbaf70d698345b899) by SunSec
 *   [Metamask Signature Types](https://metamask.github.io/test-dapp/)
 *   [https://mrstealyocrypto.xyz/](https://mrstealyocrypto.xyz/)
-*   [Resources](https://officercia.medium.com/all-resources-to-become-a-smart-contract-auditor-ff4a85c99c05) by Officer CIA
+*   [Resources](https://officercia.medium.com/all-resources-to-become-a-smart-contract-auditor-ff4a85c99c05) - Officer CIA
 *   [CTF Org](https://ctftime.org/)
 *   [SWC Registry](https://swcregistry.io/)
 *   [Solidity Scan](https://solidityscan.com/) by [Creds Shield](https://credshields.com/)
+*   [Gambit](https://github.com/Certora/gambit) - Mutation Generator for Solidity
+*   [Security Guide by Crytic](https://github.com/crytic/awesome-ethereum-security)
+*   [Solidity Honeypots](https://mplankton.substack.com/p/rediscovering-smart-contract-honeypots)
+*   [Zerem](https://github.com/hananbeer/zerem) - DeFi Circuit Breaker
 
   
 
