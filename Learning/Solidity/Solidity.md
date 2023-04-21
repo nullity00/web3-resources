@@ -1,5 +1,8 @@
 # Solidity Resources
 
+## [Libraries](https://github.com/nullity00/web3-resources/blob/main/Learning/Solidity/Libraries.md)
+## [DeFi](https://github.com/nullity00/web3-resources/blob/main/Learning/Solidity/DeFi.md)
+
 *   [Awesome Solidity by bkrem](https://github.com/bkrem/awesome-solidity)
 *   [EVM Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate)
 *   [Solidity by example](https://solidity-by-example.org/)

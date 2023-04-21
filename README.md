@@ -10,13 +10,13 @@
 
 ## Learn
 
-- [Solidity](https://github.com/nullity00/web3-resources/blob/main/Learning/SolidityResources.md)
-- [Ed Platforms](https://github.com/nullity00/web3-resources/blob/main/Learning/Ed%20platforms.md)
-- [ZKP](https://github.com/nullity00/web3-resources/blob/main/Learning/ZK/Resources.md)
+- [Solidity](https://github.com/nullity00/web3-resources/blob/main/Learning/Solidity/Solidity.md)
+- [Ed Platforms](https://github.com/nullity00/web3-resources/blob/main/Learning/Edplatforms.md)
+- [ZKP](https://github.com/nullity00/web3-resources/blob/main/Learning/ZK/ZK.md)
 - [Auditing](https://github.com/nullity00/web3-resources/blob/main/Learning/Audits-Security.md)
 - [MEV](https://github.com/nullity00/web3-resources/blob/main/Learning/MEV-Bots.md)
 - [Cairo](https://github.com/nullity00/web3-resources/blob/main/Learning/Cairo.md)
-- [Huff]()
+- [Huff](https://github.com/nullity00/web3-resources/blob/main/Learning/Huff.md)
 
 
 
