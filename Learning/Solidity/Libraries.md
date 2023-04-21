@@ -10,3 +10,6 @@
 - [Solhunt](https://github.com/iFrostizz/solhunt)
 - [Solplot](https://github.com/0xClandestine/solplot)
 - [Solgraph](https://github.com/raineorshine/solgraph)
+- [Chugsplash](https://github.com/chugsplash/chugsplash-foundry)
+- [Sparse Arr Lib](https://github.com/clabby/sparse-arr-lib)
+- [Metamorphic Contract](https://github.com/tanim0la/metamorphic-contract-template)

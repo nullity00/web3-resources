@@ -34,6 +34,7 @@
 *   [Foundry Cheat Code](https://twitter.com/gakonst/status/1584000626010165248)
 *   [Foundry Resources](https://github.com/crisgarner/awesome-foundry)
 *   [Cheatsheet by Dabit3](https://github.com/dabit3/foundry-cheatsheet)
+*   [Chugsplash](https://github.com/chugsplash/chugsplash-foundry) - For deploying upgradeable contracts
 
 ## Low level Stuff
 

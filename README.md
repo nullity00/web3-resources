@@ -17,7 +17,7 @@
 - [MEV](https://github.com/nullity00/web3-resources/blob/main/Learning/MEV-Bots.md)
 - [Cairo](https://github.com/nullity00/web3-resources/blob/main/Learning/Cairo.md)
 - [Huff](https://github.com/nullity00/web3-resources/blob/main/Learning/Huff.md)
-
+- [Circom](https://github.com/nullity00/web3-resources/blob/main/Learning/Circom.md)
 
 
 ## Cool Projects

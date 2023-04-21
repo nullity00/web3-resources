@@ -21,9 +21,12 @@
 *   [Security Guide by Crytic](https://github.com/crytic/awesome-ethereum-security)
 *   [Solidity Honeypots](https://mplankton.substack.com/p/rediscovering-smart-contract-honeypots)
 *   [Zerem](https://github.com/hananbeer/zerem) - DeFi Circuit Breaker
-
+*   [Token Tester](https://github.com/bEsPoKeN-tOkEns/token-tester)
+*   [On chain Investigation Resources - Officer CIA](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
+*   [DeFiHackLabs by Sunsec](https://github.com/SunWeb3Sec/DeFiHackLabs)
+*   [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
+*   [Smart Contract Best Practices by Consensys](https://github.com/ConsenSys/smart-contract-best-practices)
   
-
 ## Orgs / People
 
 *   [Watch Pug](https://www.watchpug.org/)
@@ -32,8 +35,6 @@
 *   [Code4Arena](https://code4rena.com/leaderboard/)
 *   [Hats Finance](https://app.hats.finance/vaults)
 
-  
-
 ## Bug Bounty
 
-[Hacken Proof](https://hackenproof.com/) , [Immunefi](https://immunefi.com/) , [Paradigm CTF](https://ctf.paradigm.xyz/challenges) , [0xMonaco](https://0xmonaco.ctf.paradigm.xyz/) , [Solidity contests](https://underhanded.soliditylang.org/) ,
+[Hacken Proof](https://hackenproof.com/) , [Immunefi](https://immunefi.com/) , [Paradigm CTF](https://ctf.paradigm.xyz/challenges) , [0xMonaco](https://0xmonaco.ctf.paradigm.xyz/) , [Solidity contests](https://underhanded.soliditylang.org/) , 

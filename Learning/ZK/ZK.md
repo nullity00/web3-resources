@@ -6,9 +6,7 @@
 *   [ZKP by Matter Labs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 *   [Privacy on Blockchain by Mikerah](https://github.com/Mikerah/awesome-privacy-on-blockchains)
 *   [Awesome ZK by Ventali](https://github.com/ventali/awesome-zk)
-*   [Semaphore-protocol](https://github.com/semaphore-protocol)
 *   [ZK Bogota Workshop](https://zkworkshop.info/)
-*   [Polygon ZKEvm](https://wiki.polygon.technology/docs/zkEVM/develop/#connecting-to-zkevm)
 *   [ZK Repl](https://zkrepl.dev/)
 *   [timelock](https://github.com/timoth-y/zk-timelock#readme) using zk
 *   [Zprize Bounty Platform](https://www.zprize.io/)
@@ -32,4 +30,10 @@
 *   [Dan Boneh](https://crypto.stanford.edu/~dabo/)
 *   [ZK Puzzles by Rareskills](https://github.com/RareSkills/zero-knowledge-puzzles)
 *   [ZKEVM Circuits in Rust](https://github.com/privacy-scaling-explorations/zkevm-circuits)
+*   [Gnark ZKSNARK Lib](https://github.com/ConsenSys/gnark)
+*   [SnarkyJS Workshop](https://github.com/o1-labs/snarkyjs-workshop)
+*   [Crypto Notes](https://github.com/erhant/crypto-notes)
+*   [Ingopedia](https://github.com/ingonyama-zk/ingopedia)
+*   [30 days of zero knowledge](https://github.com/hasselalcala/DaysOfZeroKnowledge)
+
 

@@ -3,6 +3,7 @@
 *   [Eth transaction Viewer](https://tx.eth.samczsun.com/) - By samzsun
 *   [Transaction Viewer](https://phalcon.blocksec.com/) - By Phalcon
 *   [abi.ninja](https://abi.ninja/) - By austin griffith
+*   [RolodETH](https://github.com/verynifty/RolodETH) - Rolodex for eth addresses
 *   [https://abi-parser-nvk.vercel.app/](https://abi-parser-nvk.vercel.app/)
 *   [Ether Chat](https://github.com/nhatminh12369/etherchat)
 *   [EVM Codes](https://www.evm.codes/) - Opcodes, memory, stack assesment
@@ -17,3 +18,4 @@
 *   [Tenderly](https://tenderly.co/) - Smart contract dev platform
 *   [WhatsABI](https://github.com/shazow/whatsabi) - ABI from Unverified contracts [app](https://abi.w1nt3r.xyz/)
 *   [Pelta Shield](https://pelta.tech/) - Simulate Transactions
+*   [Hydralisk](https://github.com/paulpierre/hydralisk) - Fund EVM wallets via CLI
