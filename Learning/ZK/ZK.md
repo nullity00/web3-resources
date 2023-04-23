@@ -35,5 +35,7 @@
 *   [Crypto Notes](https://github.com/erhant/crypto-notes)
 *   [Ingopedia](https://github.com/ingonyama-zk/ingopedia)
 *   [30 days of zero knowledge](https://github.com/hasselalcala/DaysOfZeroKnowledge)
+*   [Learn Cryptography](https://cryptohack.org/)
+*   [Basic Cryptography from Neso Academy](https://www.nesoacademy.org/cs/11-cryptography-and-network-security/notes)
 
 
