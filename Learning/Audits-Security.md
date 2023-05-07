@@ -35,6 +35,7 @@
 *   [Sherlock](https://app.sherlock.xyz/audits/contests)
 *   [Code4Arena](https://code4rena.com/leaderboard/)
 *   [Hats Finance](https://app.hats.finance/vaults)
+*   [Curta CTF](https://www.curta.wtf/)
 
 ## Bug Bounty
 
