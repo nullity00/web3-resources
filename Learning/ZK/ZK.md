@@ -37,5 +37,13 @@
 *   [30 days of zero knowledge](https://github.com/hasselalcala/DaysOfZeroKnowledge)
 *   [Learn Cryptography](https://cryptohack.org/)
 *   [Basic Cryptography from Neso Academy](https://www.nesoacademy.org/cs/11-cryptography-and-network-security/notes)
+*   [Starks 101](https://github.com/lambdaclass/STARK101-rs)
+*   [Neptune Cash STARK](https://neptune.cash/learn/stark-anatomy/)
+*   [STARK Brainfuck Tutorial](https://neptune.cash/learn/brainfuck-tutorial/)
+*   [Pinocchio VM](https://www.notamonadtutorial.com/pinocchio-virtual-machine-nearly-practical-verifiable-computation/)
+*   [Moonmath Manual](https://leastauthority.com/community-matters/moonmath-manual/)
+*   [UC Berkeley RDI](https://rdi.berkeley.edu/)
+*   [ETH Spring ZKP](https://ethspring.com/docs/zero-knowledge/0-preface/)
+*   [Learn Cryptography](https://medium.com/@vixentael/how-to-start-learning-cryptography-49e7d91b54a8)
 
 
