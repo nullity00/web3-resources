@@ -45,5 +45,10 @@
 *   [UC Berkeley RDI](https://rdi.berkeley.edu/)
 *   [ETH Spring ZKP](https://ethspring.com/docs/zero-knowledge/0-preface/)
 *   [Learn Cryptography](https://medium.com/@vixentael/how-to-start-learning-cryptography-49e7d91b54a8)
+*   [ZK Canon by A16z](https://a16zcrypto.com/content/article/zero-knowledge-canon/)
+
+## Projects
+
+*   [ZK Redit](https://zkredit.webflow.io/)
 
 
