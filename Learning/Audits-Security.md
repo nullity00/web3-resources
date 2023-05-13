@@ -27,6 +27,7 @@
 *   [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
 *   [Smart Contract Best Practices by Consensys](https://github.com/ConsenSys/smart-contract-best-practices)
 *   [C4 LookRare contest walkthrough](https://co0nan.gitbook.io/web3/web3/walkthroughs/c4-lookrare-contest-walkthrough)
+*   [Audit Crew - Contest Aggregator + Leaderboard](https://app.auditcrew.xyz/contests)
   
 ## Orgs / People
 
