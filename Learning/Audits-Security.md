@@ -2,6 +2,7 @@
 
 ### Resources
 
+- [Search for Audit reports](https://auditsearch.streamlit.app/)
 - [Past Audit Reports - Solodit](https://solodit.xyz/)
 - [Solutions to Blockchain Security CTF](https://github.com/blockthreat/blocksec-ctfs)
 - [Audit Findings - Audit Hero](https://audit-hero.com/)
@@ -21,7 +22,6 @@
 - [Learn Advanced EVM](https://learnevm.com/)
 - [Macro DAO Audit Reports](https://0xmacro.com/#audit-reports)
 - [Security Compedium](https://github.com/obheda12/Solidity-Security-Compendium)
-- [Search for Audit reports](https://auditsearch.streamlit.app/)
 
 ### Fellowship
 
@@ -67,6 +67,7 @@
 - [Hats Finance](https://app.hats.finance/vaults)
 - [Hacken Proof](https://hackenproof.com/)
 - [Immunefi](https://immunefi.com/)
+- [Detectbox](https://www.detectbox.io/)
 
 ### Tools
 
