@@ -20,6 +20,8 @@
 - [Chain Security Audit Reports](https://chainsecurity.com/smart-contract-audit-reports/)
 - [Learn Advanced EVM](https://learnevm.com/)
 - [Macro DAO Audit Reports](https://0xmacro.com/#audit-reports)
+- [Security Compedium](https://github.com/obheda12/Solidity-Security-Compendium)
+- [Search for Audit reports](https://auditsearch.streamlit.app/)
 
 ### Fellowship
 
@@ -72,6 +74,7 @@
 *   [Gambit](https://github.com/Certora/gambit) - Mutation Generator for Solidity
 *   [Zerem](https://github.com/hananbeer/zerem) - DeFi Circuit Breaker
 *   [Token Tester](https://github.com/bEsPoKeN-tOkEns/token-tester)
+*   [Broken Token](https://github.com/zeroknots/brokentoken)
 *   [Hemdall](https://github.com/Jon-Becker/heimdall-rs)
 *   [Slither](https://github.com/crytic/slither)
 *   [MythX](https://mythx.io/)
