@@ -4,3 +4,4 @@
 - [Uniswapv2 in Huff](https://github.com/AmadiMichael/UniswapV2-Huff)
 - [Contracts in Huff](https://github.com/huff-language/huffmate)
 - [Huff Starter Kit](https://github.com/smartcontractkit/huff-starter-kit)
+- [Chuff - Solidity Patterns in Huff](https://github.com/alexroan/chuff)
