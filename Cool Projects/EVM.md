@@ -21,3 +21,5 @@
 *   [Hydralisk](https://github.com/paulpierre/hydralisk) - Fund EVM wallets via CLI
 *   [Dedaub Library](https://library.dedaub.com/)
 *   [Scale3Labs - Manage Nodes](https://www.scale3labs.com/)
+*   [Yul to Huff](https://yul2huff.vercel.app/)
+*   [tools.deth.net](https://tools.deth.net/)
