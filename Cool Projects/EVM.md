@@ -19,3 +19,5 @@
 *   [WhatsABI](https://github.com/shazow/whatsabi) - ABI from Unverified contracts [app](https://abi.w1nt3r.xyz/)
 *   [Pelta Shield](https://pelta.tech/) - Simulate Transactions
 *   [Hydralisk](https://github.com/paulpierre/hydralisk) - Fund EVM wallets via CLI
+*   [Dedaub Library](https://library.dedaub.com/)
+*   [Scale3Labs - Manage Nodes](https://www.scale3labs.com/)
