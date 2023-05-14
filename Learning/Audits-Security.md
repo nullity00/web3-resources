@@ -78,5 +78,6 @@
 *   [Pyrometer](https://github.com/nascentxyz/pyrometer)
 *   [Halmos](https://github.com/a16z/halmos)
 *   [Amarna - Cairo](https://github.com/crytic/amarna)
+*   [Rattle - Binary Static Analysis](https://github.com/crytic/rattle)
 *   [On chain Investigation Resources - Officer CIA](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 *   [Solidity Tools by Alchemy](https://www.alchemy.com/top/solidity-tools)
