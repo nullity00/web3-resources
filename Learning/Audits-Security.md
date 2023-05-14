@@ -16,7 +16,21 @@
 - [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
 - [Smart Contract Best Practices by Consensys](https://github.com/ConsenSys/smart-contract-best-practices)
 - [Past Secureum Races](https://ventral.digital/)
+- [Certora Reports](https://www.certora.com/)
+- [Chain Security Audit Reports](https://chainsecurity.com/smart-contract-audit-reports/)
+- [Learn Advanced EVM](https://learnevm.com/)
+- [Macro DAO Audit Reports](https://0xmacro.com/#audit-reports)
 
+### Fellowship
+
+- [MacroDAO Fellow](https://0xmacro.com/engineering-fellowship)
+
+### Blogs
+
+- [Creed Community](https://community.thecreed.xyz/c/start-here)
+- [Macro Lib](https://0xmacro.com/library)
+- [Opensense](https://www.opensense.pw/)
+- [Peter Kacherginsky](https://iphelix.medium.com/)
 
 ### Practice 
 
@@ -32,6 +46,7 @@
 - [Become a Smart Contract Auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
 - [Solidity Honeypots](https://mplankton.substack.com/p/rediscovering-smart-contract-honeypots)
 - [C4 LookRare contest walkthrough](https://co0nan.gitbook.io/web3/web3/walkthroughs/c4-lookrare-contest-walkthrough)
+- [Byte Shifting](https://medium.com/@mweiss.eth/solidity-and-evm-bit-shifting-and-masking-in-assembly-yul-942f4b4ebb6a)
 
 ### CTFs
 
@@ -51,11 +66,15 @@
 - [Hacken Proof](https://hackenproof.com/)
 - [Immunefi](https://immunefi.com/)
 
-
 ### Tools
 
 *   [Solidity Scan](https://solidityscan.com/) by [Creds Shield](https://credshields.com/)
 *   [Gambit](https://github.com/Certora/gambit) - Mutation Generator for Solidity
 *   [Zerem](https://github.com/hananbeer/zerem) - DeFi Circuit Breaker
 *   [Token Tester](https://github.com/bEsPoKeN-tOkEns/token-tester)
+*   [Hemdall](https://github.com/Jon-Becker/heimdall-rs)
+*   [Slither](https://github.com/crytic/slither)
+*   [MythX](https://mythx.io/)
+*   [Pyrometer](https://github.com/nascentxyz/pyrometer)
 *   [On chain Investigation Resources - Officer CIA](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
+*   [Solidity Tools by Alchemy](https://www.alchemy.com/top/solidity-tools)
