@@ -76,5 +76,6 @@
 *   [Slither](https://github.com/crytic/slither)
 *   [MythX](https://mythx.io/)
 *   [Pyrometer](https://github.com/nascentxyz/pyrometer)
+*   [Amarna - Cairo](https://github.com/crytic/amarna)
 *   [On chain Investigation Resources - Officer CIA](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 *   [Solidity Tools by Alchemy](https://www.alchemy.com/top/solidity-tools)
