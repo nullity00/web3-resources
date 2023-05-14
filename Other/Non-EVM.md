@@ -7,3 +7,4 @@
 - [Programming BTC](https://github.com/jimmysong/programmingbitcoin)
 - [Bitcoin Book](https://github.com/bitcoinbook/bitcoinbook)
 - [Grokking BTC](https://github.com/kallerosenbaum/grokkingbitcoin)
+- [CS 253 - Fall 2021](https://web.stanford.edu/class/cs253/)
