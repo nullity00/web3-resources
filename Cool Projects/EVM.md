@@ -27,4 +27,8 @@
 *   [Monobase](https://monobase.xyz/)
 *   [deth.net](https://www.deth.net/)
 *   [openchain.xyz](https://openchain.xyz/trace)
-*   [Source Graph](https://sourcegraph.com/search)
+*   [Source Graph](https://sourcegraph.com/search) - seacrhes contract code on GH
+*   [UpgradeHub](https://upgradehub.xyz/) - Gets contract code
+*   [Ultrasound Money](https://ultrasound.money/) - ETH Stats
+*   [MetaSleuth](https://metasleuth.io/) - Transaction Viewer
+*   [AMM Calculator](https://amm-calculator.vercel.app/)
