@@ -36,6 +36,12 @@
 - [Auditing Process by GA](https://lab.guardianaudits.com/the-auditors-handbook/the-auditing-process)
 - [Web3 Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs)
 - [Secureum Mindmap](https://github.com/x676f64/secureum-mind_map)
+- [Immunify Forge POC](https://github.com/immunefi-team/forge-poc-templates)
+- [EVM Security Repos](https://github.com/stars/pcaversaccio/lists/ethereum-security)
+- [Practice Secureum Races](https://www.ghostsofepochspast.xyz/)
+- [Web3 Security DAO](https://www.web3securitydao.xyz/collaborating/resources)
+- Tomo Labo Bugs - [Medium](https://tom-sol.notion.site/c433c81fc5964fb8b32c59ce98fec3df?v=c5ffb5c86778424c9a1fe3dd6f7f00f3) | [High](https://tom-sol.notion.site/f9d3a62122d34b479b52ea3e0583bd57?v=9c303b31cca845638e78c25da29fa5de)
+- [Auditor Roadmap by Razzor](https://github.com/razzorsec/AuditorsRoadmap)
 
 ### Fellowship
 
@@ -48,6 +54,10 @@
 - [Macro Lib](https://0xmacro.com/library)
 - [Opensense](https://www.opensense.pw/)
 - [Peter Kacherginsky](https://iphelix.medium.com/)
+- [Trust Security](https://www.trust-security.xyz/blog)
+- [Noxx](https://noxx.substack.com/)
+- [OZ](https://blog.openzeppelin.com/)
+- [Ronan](https://ronan.eth.link/blog/)
 
 ### Practice 
 
@@ -73,6 +83,9 @@
 - [0xMonaco](https://0xmonaco.ctf.paradigm.xyz/)
 - [Solidity contests](https://underhanded.soliditylang.org/)
 - [Quill CTF](https://academy.quillaudits.com/challenges/quillctf-challenges)
+- [EVM Through CTFs](https://www.evmthroughctfs.com/)
+- [EVM Puzzles](https://github.com/daltyboy11/more-evm-puzzles)
+- [CTF Protocol](https://www.ctfprotocol.com/)
 
 ### Auditing Platforms
 

@@ -26,9 +26,15 @@
 - [Bitquery](https://bitquery.io/)
 - [Monobase](https://monobase.xyz/)
 - [deth.net](https://www.deth.net/)
-- [openchain.xyz](https://openchain.xyz/trace)
+- [openchain.xyz](https://openchain.xyz/)
 - [Source Graph](https://sourcegraph.com/search) - seacrhes contract code on GH
 - [UpgradeHub](https://upgradehub.xyz/) - Gets contract code
 - [Ultrasound Money](https://ultrasound.money/) - ETH Stats
 - [MetaSleuth](https://metasleuth.io/) - Transaction Viewer
 - [AMM Calculator](https://amm-calculator.vercel.app/)
+- [ByteCode - Huff](https://bytegraph.xyz/)
+- [codeslaw](https://www.codeslaw.app/)
+- [Dissemble Bytecode](https://gist.github.com/ItsCuzzo/dbce3c4b2f60f8cf9d3d8ac17b248fee)
+- [Contract summary using GPT](https://understandcontracts.vercel.app/)
+- [Call Data Decoder](https://www.ethcmd.com/tools/decode-calldata/)
+- [Decode by Apoorv](https://calldata-decoder.apoorv.xyz/)

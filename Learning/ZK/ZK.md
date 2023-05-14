@@ -1,5 +1,8 @@
 ## ZKP Resources
 
+- [Beginner's Guide to ZKP](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56)
+- [ZK Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519)
+- [Guide to ZKGalaxy](https://blockchain.capital/a-developers-guide-to-the-zkgalaxy/)
 - [MOOC](https://github.com/nullity00/web3-resources/tree/main/Learning/ZK/MOOC)
 - [zkOne University](https://zku.one/)
 - [ZKHackDev](https://zkhack.dev/whiteboard/)
@@ -50,6 +53,9 @@
 - [Awesome PLONK BY Fluidex](https://github.com/fluidex/awesome-plonk)
 - [Powdr - Extended PIL in Rust](https://github.com/chriseth/powdr)
 - [Friendly ZK Bot - ZKPOD.AI](https://zkpod.ai/)
+- [Hickup's ZK Journey](https://sunrise-clerk-234.notion.site/Hickup-s-ZK-Journey-affa9ce9cdf44a33b3549c37f908521a)
+- [Generate Randomness using SNARKS](https://www.paradigm.xyz/2023/01/eth-rng)
+- [ZK Resources by d2](https://github.com/D-Squared70/Reading-Room/blob/main/Zero-Knowledge/ZKP-Resources.md)
 
 ## Projects
 
@@ -57,6 +63,7 @@
 - [ZK EMail](https://github.com/zkemail/zk-email-verify)
 - [Scroll](https://guide.scroll.io/contribute-to-scroll/contributing-to-scroll)
 - [GKR Protocol in Rust](https://github.com/alexander-camuto/rs-gkr)
+- [Proof of Execution in Scroll](https://ethglobal.com/showcase/zk-proof-of-evm-execution-ix960)
 
 
 

@@ -23,6 +23,7 @@
 - [Proxies - YAcademy](https://proxies.yacademy.dev/)
 - [Solidity Interview - Jumpdest](https://www.jumpdest.dev/)
 - [Solidity AST](https://solidity-ast.netlify.app/)
+- [EVM by CyberPunks](https://cypherpunks-core.github.io/ethereumbook/13evm.html)
 
 ## Plugins
 
@@ -35,6 +36,9 @@
 - [Extensions for VS Code](https://sm4rty.medium.com/top-5-vs-code-extensions-for-smart-contract-hacking-2022-528740a575c6)
 - [33 repos](https://blog.developerdao.com/35-github-repositories-every-solidity-developer-should-bookmark) to star
 - [EVM Storage Diagram](https://twitter.com/blainemalone/status/1597352375593078784)
+- [Invariant Testing](https://betterprogramming.pub/invariant-testing-enter-the-matrix-c71363dea37e)
+- [Program the blockchain](https://programtheblockchain.com/)
+- [Degatchi Articles](https://degatchi.com/articles)
 
 ## Foundry
 

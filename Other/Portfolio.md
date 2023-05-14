@@ -22,3 +22,4 @@
 - [Remco Boleman](https://xn--2-umb.com/)
 - [Riley Holterhus](https://www.rileyholterhus.com/)
 - [Bytes32](https://bytes032.xyz/Home)
+- [zzykxx](https://zzykxx.com/)
