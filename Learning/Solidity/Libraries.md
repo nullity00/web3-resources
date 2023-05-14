@@ -13,3 +13,4 @@
 - [Chugsplash](https://github.com/chugsplash/chugsplash-foundry)
 - [Sparse Arr Lib](https://github.com/clabby/sparse-arr-lib)
 - [Metamorphic Contract](https://github.com/tanim0la/metamorphic-contract-template)
+- [Counterfactual Delegation](https://delegatable.org/)
