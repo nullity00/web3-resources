@@ -23,3 +23,8 @@
 *   [Scale3Labs - Manage Nodes](https://www.scale3labs.com/)
 *   [Yul to Huff](https://yul2huff.vercel.app/)
 *   [tools.deth.net](https://tools.deth.net/)
+*   [Bitquery](https://bitquery.io/)
+*   [Monobase](https://monobase.xyz/)
+*   [deth.net](https://www.deth.net/)
+*   [openchain.xyz](https://openchain.xyz/trace)
+*   [Source Graph](https://sourcegraph.com/search)
