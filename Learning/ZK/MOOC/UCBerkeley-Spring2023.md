@@ -1,3 +1,7 @@
+
+- [Bilinear Pairings](https://crypto-notes-danivilardell.vercel.app/)
+
+
 ## Introduction and History of ZKP 
 | [Lecture](https://www.youtube.com/watch?v=uchjTIlPzFo) | [Quiz](https://forms.gle/Td2Kw3Btp9XBHw846) | [Slides](https://zk-learning.org/assets/Lecture1-2023-slides.pdf)
 

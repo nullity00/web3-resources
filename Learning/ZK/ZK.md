@@ -56,6 +56,7 @@
 - [Hickup's ZK Journey](https://sunrise-clerk-234.notion.site/Hickup-s-ZK-Journey-affa9ce9cdf44a33b3549c37f908521a)
 - [Generate Randomness using SNARKS](https://www.paradigm.xyz/2023/01/eth-rng)
 - [ZK Resources by d2](https://github.com/D-Squared70/Reading-Room/blob/main/Zero-Knowledge/ZKP-Resources.md)
+- [ZCash - Halo2 Book](https://zcash.github.io/halo2/index.html)
 
 ## Projects
 
