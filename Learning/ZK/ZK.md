@@ -1,5 +1,7 @@
 # ZKP Resources
 
+See Also - [Circom](https://github.com/nullity00/web3-resources/blob/main/Learning/Circom.md) | [Rust](https://github.com/nullity00/web3-resources/blob/main/Learning/Rust/Rust.md) | [Cairo](https://github.com/nullity00/web3-resources/blob/main/Learning/Cairo.md)
+
 ## Learning Platforms
 
 - [zkOne University](https://zku.one/)
@@ -8,6 +10,7 @@
 - [Risc Zero](https://www.risczero.com/docs)
 - [MIT IAP 2023](https://zkiap.com/)
 - [MOOC - zk-learning.org](https://github.com/nullity00/web3-resources/tree/main/Learning/ZK/MOOC)
+- [Uncloak - ZK Cryptography in Rust](https://uncloak.org/courses/rust+cryptography+engineering/course-Rust+Cryptography+Engineering+Study+Group+Syllabus)
 - [ZK Bogota Workshop](https://zkworkshop.info/)
 - [Dan Boneh's courses](https://crypto.stanford.edu/~dabo/)
 - [Gub sheep's classes for 0xparc](http://learn.0xparc.org/)

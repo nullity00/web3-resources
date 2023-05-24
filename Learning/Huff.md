@@ -7,3 +7,4 @@
 - [Chuff - Solidity Patterns in Huff](https://github.com/alexroan/chuff)
 - [Uniswapv1 in Huff](https://github.com/eugenioclrc/huffswap)
 - [Ethernaut in HUff](https://github.com/mektigboy/huffing-ethernaut)
+- [Huff Stack Comments](https://github.com/Yashiru/huff-stack-comments)
