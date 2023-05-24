@@ -40,3 +40,5 @@
 - [Decode by Apoorv](https://calldata-decoder.apoorv.xyz/)
 - [RAW TX Data Decode](https://rawtxdecode.in/)
 - [Contract Diff Tool](https://x48.tools/diff)
+- [Tx Simulator](https://github.com/EnsoFinance/transaction-simulator)
+- [Akhram Intelligence](https://platform.arkhamintelligence.com/)

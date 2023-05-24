@@ -13,3 +13,4 @@
 - [ETH India 2022 Finalists](https://twitter.com/ETHGlobal/status/1603833092346609700?utm_source=substack&utm_medium=email)
 - [Hack FEVM 2022 Finalists](https://twitter.com/ETHGlobal/status/1594484628341264384)
 - [Space Warp Finalists](https://twitter.com/ETHGlobal/status/1624105995738677262)
+- [ETH Lisbon 2023](https://twitter.com/ethglobal/status/1657794093802483714)
