@@ -8,3 +8,4 @@
 - [Iden3 Circomlib](https://github.com/iden3/circomlib)
 - [CircomSpect](https://github.com/trailofbits/circomspect)
 - [Circify circ](https://github.com/circify/circ)
+- [ZK Repl](https://zkrepl.dev/)
