@@ -4,3 +4,4 @@
 - [Berkeley University CS 194](http://rdi.berkeley.edu/berkeley-defi/f22) - DeFi
 - [DeFi Roadmap by Officer CIA](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [Harvey Campbell](https://www.youtube.com/@campbellharvey/playlists)
+- [DeFi Threat - Manifold Finance](https://github.com/manifoldfinance/defi-threat)

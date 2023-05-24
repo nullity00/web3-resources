@@ -9,3 +9,5 @@
 - [Flashbots Collective](https://collective.flashbots.net/t/flashbots-transparency-report-mev-share-relay-exploits-shapella-and-rev/1742)
 - [Artemis](https://www.paradigm.xyz/2023/05/artemis)
 - [MEV Boost](https://www.paradigm.xyz/2023/04/mev-boost-ethereum-consensus)
+- [MEV Wars](https://twitter.com/bertcmiller/status/1402665992422047747)
+- [Frontier Tech -  MEV Research](https://frontier.tech/)

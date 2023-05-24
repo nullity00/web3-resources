@@ -46,10 +46,10 @@
 
 ## NewsLetters
 
-- Week In Ethereum
-- Block threat
+- [Week In Ethereum](https://weekinethereum.substack.com/)
+- [Block threat](https://newsletter.blockthreat.io/)
 - Ikigai - Travis Kling
-- Developer DAO
+- [Paradigm](https://www.paradigm.xyz/writing)
 - Polygon Labs
 - Filecoin News
 - The Defiant
