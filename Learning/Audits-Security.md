@@ -3,6 +3,7 @@
 ### Resources
 
 - [Search for Audit reports](https://auditsearch.streamlit.app/)
+- [Audit Reports - DeFi Yield](https://safefiles.defiyield.info/safe/files/audit/pdf/)
 - [Past Audit Reports - Solodit](https://solodit.xyz/)
 - [Solutions to Blockchain Security CTF](https://github.com/blockthreat/blocksec-ctfs)
 - [Audit Findings - Audit Hero](https://audit-hero.com/)
@@ -42,11 +43,13 @@
 - [Web3 Security DAO](https://www.web3securitydao.xyz/collaborating/resources)
 - Tomo Labo Bugs - [Medium](https://tom-sol.notion.site/c433c81fc5964fb8b32c59ce98fec3df?v=c5ffb5c86778424c9a1fe3dd6f7f00f3) | [High](https://tom-sol.notion.site/f9d3a62122d34b479b52ea3e0583bd57?v=9c303b31cca845638e78c25da29fa5de)
 - [Auditor Roadmap by Razzor](https://github.com/razzorsec/AuditorsRoadmap)
+- [All things Reentrancy](https://github.com/jcsec-security/all-things-reentrancy)
 
 ### Fellowship
 
 - [MacroDAO Fellow](https://0xmacro.com/engineering-fellowship)
 - [Yield Protocol 2022](https://github.com/yieldprotocol/mentorship2022/issues)
+- [Solidity Lab - Gaurdian Audit](https://lab.guardianaudits.com/)
 
 ### Blogs
 
@@ -58,13 +61,22 @@
 - [Noxx](https://noxx.substack.com/)
 - [OZ](https://blog.openzeppelin.com/)
 - [Ronan](https://ronan.eth.link/blog/)
+- [RareSkills](https://www.rareskills.io/blog)
+- [Jean Cvllr](https://jeancvllr.medium.com/)
+- [Immunefi](https://medium.com/@immunefi)
+- [Zellic](https://www.zellic.io/blog)
+- [Veridise](https://medium.com/@veridise)
+- [Slow Mist](https://slowmist.medium.com/)
+- [Quill Audits](https://quillaudits.medium.com/)
+- [Dacian](https://dacian.me/)
 
 ### Practice 
 
 - [Challenges by Tincho](https://www.damnvulnerabledefi.xyz/)
 - [Cipher Shastra](https://ciphershastra.com/)
 - [Warmup Challenges](https://capturetheether.com/)
-- [https://mrstealyocrypto.xyz/](https://mrstealyocrypto.xyz/)
+- [mrstealyocrypto.xyz](https://mrstealyocrypto.xyz/)
+- [0xLanterns](https://github.com/0xLanterns/OA)
 
 ### Articles
 
