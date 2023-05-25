@@ -71,6 +71,7 @@ See Also - [Circom](https://github.com/nullity00/web3-resources/blob/main/Learni
 - [ZK Benchmark](https://www.zk-bench.org/)
 - [ZK Collective](https://zkcollective.org/)
 - [Gnark ZKSNARK Lib](https://github.com/ConsenSys/gnark)
+- [Visualize Bonding Curves](https://www.desmos.com/calculator/28itwn8nkh)
 
 ## Projects
 
