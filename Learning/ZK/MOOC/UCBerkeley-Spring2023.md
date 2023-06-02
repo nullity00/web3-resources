@@ -176,3 +176,6 @@ Libraries and Compilers to build ZKP | [Lecture](https://youtu.be/UpRSaG6iuks) 
 
 ## Formal Verification of ZKP  
 [Lecture](https://youtu.be/av7Wq742GIA) | [Playlist](https://youtube.com/playlist?list=PLS01nW3RtgorMPv-awIn16HAdmyfIqsNj) | [Slides](https://zk-learning.org/assets/lecture14.pdf)<br>05/09<br>Hardware Acceleration of ZKP | [Lecture](https://youtu.be/ez46At3xTjM) 
+
+[Lab](https://github.com/rdi-berkeley/zkp-mooc-lab)
+[HW](https://zk-learning.org/assets/ZKP_HW.pdf) - [Solutions](https://zk-learning.org/assets/HW-solutions.pdf)
