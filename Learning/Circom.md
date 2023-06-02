@@ -15,3 +15,7 @@
 - [CircomSpect](https://github.com/trailofbits/circomspect)
 - [Circify circ](https://github.com/circify/circ)
 - [ZK Repl](https://zkrepl.dev/)
+
+### Research 
+
+- [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2023/190.pdf)
