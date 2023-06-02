@@ -98,6 +98,7 @@
 - [EVM Through CTFs](https://www.evmthroughctfs.com/)
 - [EVM Puzzles](https://github.com/daltyboy11/more-evm-puzzles)
 - [CTF Protocol](https://www.ctfprotocol.com/)
+- [TrustchainCTF](https://ctf.trustchain.agency/)
 
 ### Auditing Platforms
 
@@ -129,4 +130,7 @@
 - [HH Exposed - Test Private func](https://github.com/frangio/hardhat-exposed)
 - [On chain Investigation Resources - Officer CIA](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [Solidity Tools by Alchemy](https://www.alchemy.com/top/solidity-tools)
-- [Advanced Fuzzing](https://fuzzy.fyi/) - Paid 
+- [fuzzy.fyi](https://fuzzy.fyi/) - Paid 
+- [Ziion by Halborn](https://www.ziion.org/download)
+- [Woke Fuzzer](https://github.com/Ackee-Blockchain/woke)
+- [AuditWizard by Auditware](https://app.auditware.io/)
