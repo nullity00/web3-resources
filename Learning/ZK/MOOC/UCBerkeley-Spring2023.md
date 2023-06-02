@@ -154,3 +154,25 @@ Libraries and Compilers to build ZKP | [Lecture](https://youtu.be/UpRSaG6iuks) 
 - [Nova](https://eprint.iacr.org/2021/370.pdf)
 - [Proof-Carrying Data without Succinct Arguments](https://eprint.iacr.org/2020/1618.pdf)
 - [Folding Schemes with Selective Verification](https://eprint.iacr.org/2022/1576.pdf)
+
+
+##	Theoretical Foundations & Recent Theoretical Advancements 
+| [Lecture](https://youtu.be/CIGnBb8B0rQ) | [Playlist](https://youtube.com/playlist?list=PLS01nW3RtgortBgR8sznyBbYvS2R63fe0) | [Quiz](https://forms.gle/4559ZvLkWWFzgNVj7) | [Slides](https://zk-learning.org/assets/lecture11.pdf)
+
+## Overview of ZKP Applications & zkRollup and zkEVM 
+| [Lecture](https://youtu.be/vuQGdbpDWcs) | [Playlist](https://youtube.com/playlist?list=PLS01nW3RtgoqV9S-crVXIkMoaE1JRJwML) | [Slides](https://zk-learning.org/assets/lecture12.pdf)
+
+## Building opcode compatible zk EVMs 
+| [Lecture](https://youtu.be/Crzw7ccuHd0) | [Slides](https://zk-learning.org/assets/lecture_opcode.pdf)
+
+## Privacy-preserving Architectures 
+| [Lecture](https://youtu.be/1o3cl42bs40) | [Slides](https://zk-learning.org/assets/lecture_privacy.pdf)
+
+## ZKP Applications & zkBridge, Trustless Bridge made Practical 
+[Lecture](https://youtu.be/0bKasr4G7OM)
+
+## More ZKP Applications 
+[Lecture](https://youtu.be/tbEsv2afhko)
+
+## Formal Verification of ZKP  
+[Lecture](https://youtu.be/av7Wq742GIA) | [Playlist](https://youtube.com/playlist?list=PLS01nW3RtgorMPv-awIn16HAdmyfIqsNj) | [Slides](https://zk-learning.org/assets/lecture14.pdf)<br>05/09<br>Hardware Acceleration of ZKP | [Lecture](https://youtu.be/ez46At3xTjM) 
