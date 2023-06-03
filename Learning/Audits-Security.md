@@ -2,11 +2,7 @@
 
 ### Resources
 
-- [Search for Audit reports](https://auditsearch.streamlit.app/)
-- [Audit Reports - DeFi Yield](https://safefiles.defiyield.info/safe/files/audit/pdf/)
-- [Past Audit Reports - Solodit](https://solodit.xyz/)
 - [Solutions to Blockchain Security CTF](https://github.com/blockthreat/blocksec-ctfs)
-- [Audit Findings - Audit Hero](https://audit-hero.com/)
 - [Security resources by Immunifi](https://github.com/immunefi-team/Web3-Security-Library)
 - [Quill Audits Roadmap](https://github.com/Quillhash/QuillAudit_Auditor_Roadmap)
 - [Quill Auditing Mindmap](https://github.com/Quillhash/Smart-contract-Auditing-Methodology-mindmap)
@@ -20,18 +16,13 @@
 - [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
 - [Smart Contract Best Practices by Consensys](https://github.com/ConsenSys/smart-contract-best-practices)
 - [Past Secureum Races](https://ventral.digital/)
-- [Certora Reports](https://www.certora.com/)
-- [Chain Security Audit Reports](https://chainsecurity.com/smart-contract-audit-reports/)
 - [Learn Advanced EVM](https://learnevm.com/)
-- [Macro DAO Audit Reports](https://0xmacro.com/#audit-reports)
 - [Security Compedium](https://github.com/obheda12/Solidity-Security-Compendium)
-- [Audit Reports - CD Security](https://github.com/CDSecurity/audits)
 - [YAcademy - DeFi Bugs](https://github.com/YAcademy-Residents/defi-fork-bugs)
 - [List of Reentrancy Attacks](https://github.com/pcaversaccio/reentrancy-attacks)
 - [Oracle Manipulation](https://github.com/0xcacti/awesome-oracle-manipulation)
 - [Secure Contracts - Trail Of Bits](https://secure-contracts.com/)
 - [Immunify Bug Bounty Writeups](https://github.com/sayan011/Immunefi-bug-bounty-writeups-list)
-- [Audit Reports by Web3Sec News](https://web3sec.news/audits)
 - [Coinspect EVM Attacks](https://github.com/coinspect/learn-evm-attacks)
 - [Solidity Notes by Chinmaya](https://github.com/chinmay-farkya/solidity-notes)
 - [Auditing Process by GA](https://lab.guardianaudits.com/the-auditors-handbook/the-auditing-process)
@@ -44,6 +35,19 @@
 - Tomo Labo Bugs - [Medium](https://tom-sol.notion.site/c433c81fc5964fb8b32c59ce98fec3df?v=c5ffb5c86778424c9a1fe3dd6f7f00f3) | [High](https://tom-sol.notion.site/f9d3a62122d34b479b52ea3e0583bd57?v=9c303b31cca845638e78c25da29fa5de)
 - [Auditor Roadmap by Razzor](https://github.com/razzorsec/AuditorsRoadmap)
 - [All things Reentrancy](https://github.com/jcsec-security/all-things-reentrancy)
+
+### Audit Reports
+
+- [Veridise](https://veridise.com/audits/)
+- [Audit Reports by Web3Sec News](https://web3sec.news/audits)
+- [Audit Reports - CD Security](https://github.com/CDSecurity/audits)
+- [Search for Audit reports](https://auditsearch.streamlit.app/)
+- [Audit Reports - DeFi Yield](https://safefiles.defiyield.info/safe/files/audit/pdf/)
+- [Past Audit Reports - Solodit](https://solodit.xyz/)
+- [Certora Reports](https://www.certora.com/)
+- [Chain Security Audit Reports](https://chainsecurity.com/smart-contract-audit-reports/)
+- [Macro DAO Audit Reports](https://0xmacro.com/#audit-reports)
+- [Audit Findings - Audit Hero](https://audit-hero.com/)
 
 ### Fellowship
 

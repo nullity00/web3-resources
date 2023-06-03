@@ -40,6 +40,7 @@ See Also - [Circom](https://github.com/nullity00/web3-resources/blob/main/Learni
 - [Awesome PLONK BY Fluidex](https://github.com/fluidex/awesome-plonk)
 - [SnarkyJS Workshop](https://github.com/o1-labs/snarkyjs-workshop)
 - [ZKEVM Circuits in Rust](https://github.com/privacy-scaling-explorations/zkevm-circuits)
+- [ZK Bug Tracker](https://github.com/0xPARC/zk-bug-tracker)
 
 ## Articles
 
@@ -57,6 +58,7 @@ See Also - [Circom](https://github.com/nullity00/web3-resources/blob/main/Learni
 - [ZK Podcast](https://zeroknowledge.fm/)
 - [Powdr - Extended PIL in Rust](https://github.com/chriseth/powdr)
 - [UC Berkeley RDI](https://rdi.berkeley.edu/)
+- [vac.dev](https://vac.dev/)
 
 ## CTF / Puzzles
 
@@ -93,6 +95,9 @@ See Also - [Circom](https://github.com/nullity00/web3-resources/blob/main/Learni
 - [Ramses](https://medium.com/@ramsesfv)
 - [Trapdoor Tech](https://medium.com/@trapdoortech)
 - [ZK Blog](https://www.zeroknowledgeblog.com/)
+- [Veridise](https://medium.com/@veridise/list/zero-knowledge-proof-5e7ecbd30b27)
 
+## Research
 
+- [Incremental Merkle Trees](https://arxiv.org/pdf/2105.06009v1.pdf)
 
