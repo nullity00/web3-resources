@@ -41,6 +41,8 @@ See Also - [Circom](https://github.com/nullity00/web3-resources/blob/main/Learni
 - [SnarkyJS Workshop](https://github.com/o1-labs/snarkyjs-workshop)
 - [ZKEVM Circuits in Rust](https://github.com/privacy-scaling-explorations/zkevm-circuits)
 - [ZK Bug Tracker](https://github.com/0xPARC/zk-bug-tracker)
+- [RISC Zero Education Database](https://www.notion.so/5a335a1d29b44cb48c44b36ae66f366f?v=95cda72e39d3403fbfb59884afb0045d)
+- [Proof Systems by O(1) Labs](https://o1-labs.github.io/proof-systems/)
 
 ## Articles
 
@@ -96,6 +98,7 @@ See Also - [Circom](https://github.com/nullity00/web3-resources/blob/main/Learni
 - [Trapdoor Tech](https://medium.com/@trapdoortech)
 - [ZK Blog](https://www.zeroknowledgeblog.com/)
 - [Veridise](https://medium.com/@veridise/list/zero-knowledge-proof-5e7ecbd30b27)
+- [ZKSecurity](https://www.zksecurity.xyz/blog/)
 
 ## Research
 
