@@ -48,6 +48,14 @@
 - [Chain Security Audit Reports](https://chainsecurity.com/smart-contract-audit-reports/)
 - [Macro DAO Audit Reports](https://0xmacro.com/#audit-reports)
 - [Audit Findings - Audit Hero](https://audit-hero.com/)
+- [Hexens](https://github.com/Hexens/Smart-Contract-Review-Public-Reports)
+- [MixBytes](https://github.com/mixbytes/audits_public)
+- [ABDK Consulting](https://github.com/abdk-consulting/audits)
+- [Solidified](https://github.com/solidified-platform/audits)
+- [Trail of Bits](https://github.com/trailofbits/publications)
+- [Oak Security](https://github.com/oak-security/audit-reports)
+- [YAcademy Audits](https://github.com/yacademy/audits)
+- [Halborn](https://github.com/HalbornSecurity/PublicReports)
 
 ### Fellowship
 
@@ -103,6 +111,7 @@
 - [EVM Puzzles](https://github.com/daltyboy11/more-evm-puzzles)
 - [CTF Protocol](https://www.ctfprotocol.com/)
 - [TrustchainCTF](https://ctf.trustchain.agency/)
+- [HalbornCTF](https://github.com/HalbornSecurity/CTFs)
 
 ### Auditing Platforms
 
