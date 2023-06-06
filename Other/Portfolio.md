@@ -24,3 +24,4 @@
 - [Bytes32](https://bytes032.xyz/Home)
 - [zzykxx](https://zzykxx.com/)
 - [arnaucube](https://arnaucube.com/)
+- [Abdul Sami](https://abdulsamijay.github.io/)
