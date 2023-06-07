@@ -16,3 +16,4 @@
 - [Counterfactual Delegation](https://delegatable.org/)
 - [Cloc - use it to count sloc](https://github.com/AlDanial/cloc)
 - [Cram Bit](https://github.com/joejordan/CramBit)
+- [EVM CFG](https://github.com/plotchy/evm-cfg)

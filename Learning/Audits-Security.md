@@ -35,6 +35,7 @@
 - Tomo Labo Bugs - [Medium](https://tom-sol.notion.site/c433c81fc5964fb8b32c59ce98fec3df?v=c5ffb5c86778424c9a1fe3dd6f7f00f3) | [High](https://tom-sol.notion.site/f9d3a62122d34b479b52ea3e0583bd57?v=9c303b31cca845638e78c25da29fa5de)
 - [Auditor Roadmap by Razzor](https://github.com/razzorsec/AuditorsRoadmap)
 - [All things Reentrancy](https://github.com/jcsec-security/all-things-reentrancy)
+- [Checks while Hacks](https://github.com/0xprinc/checks-while-hacks/)
 
 ### Audit Reports
 
@@ -56,6 +57,8 @@
 - [Oak Security](https://github.com/oak-security/audit-reports)
 - [YAcademy Audits](https://github.com/yacademy/audits)
 - [Halborn](https://github.com/HalbornSecurity/PublicReports)
+- [Paladin Sec](https://paladinsec.co/audits/)
+- [Spearbit](https://github.com/spearbit/portfolio)
 
 ### Fellowship
 
@@ -116,7 +119,6 @@
 ### Auditing Platforms
 
 - [Audit Crew - Contest Aggregator + Leaderboard](https://app.auditcrew.xyz/contests)
-- [Spearbit](https://spearbit.com/)
 - [Sherlock](https://app.sherlock.xyz/audits/contests)
 - [Code4Arena](https://code4rena.com/leaderboard/)
 - [Hats Finance](https://app.hats.finance/vaults)

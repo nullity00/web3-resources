@@ -24,6 +24,8 @@
 - [Solidity Interview - Jumpdest](https://www.jumpdest.dev/)
 - [Solidity AST](https://solidity-ast.netlify.app/)
 - [EVM by CyberPunks](https://cypherpunks-core.github.io/ethereumbook/13evm.html)
+- [Useful Solidity Patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns)
+- [Academic Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers)
 
 ## Plugins
 
@@ -48,6 +50,7 @@
 - [Chugsplash](https://github.com/chugsplash/chugsplash-foundry) - For deploying upgradeable contracts
 - [Testing - MapleV2](https://github.com/maple-labs/maple-core-v2/tree/main/tests)
 - [Mutaion Testing](https://www.rareskills.io/post/solidity-mutation-testing)
+- [Random numbers](https://github.com/joejordan/foundry-random)
 
 ## Low level Stuff
 
