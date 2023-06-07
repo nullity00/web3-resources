@@ -25,3 +25,5 @@
 - [zzykxx](https://zzykxx.com/)
 - [arnaucube](https://arnaucube.com/)
 - [Abdul Sami](https://abdulsamijay.github.io/)
+- [JP Aumasson](https://www.aumasson.jp/)
+- [blockdev](https://0xbok.github.io/)

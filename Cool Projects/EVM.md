@@ -43,3 +43,4 @@
 - [Tx Simulator](https://github.com/EnsoFinance/transaction-simulator)
 - [Akhram Intelligence](https://platform.arkhamintelligence.com/)
 - [ETH VM Opcodes](https://ethervm.io/)
+- [Stablecoin PnL](https://www.nymnio.com/)

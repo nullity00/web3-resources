@@ -1,7 +1,7 @@
 # Data Sites
 
-- [https://dezentralizedfinance.com/](https://dezentralizedfinance.com/)
-- [https://messari.io/](https://messari.io/)
+- [dezentralizedfinance.com](https://dezentralizedfinance.com/)
+- [messari.io](https://messari.io/)
 - [MEV Stats](https://mev.metablock.dev/1/dashboard) grouped by type & protocol, search & MEV leaderboards
 - [Messari Pool Explorer](https://messari.io/pool-explorer/all-pools)
 - [NFT Feeds Data](https://app.diadata.org/data-feeds/nft) by DIA Data
