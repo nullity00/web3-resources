@@ -22,6 +22,7 @@ See Also - [Circom](https://github.com/nullity00/web3-resources/blob/main/Learni
 - [Neptune Cash STARK](https://neptune.cash/learn/stark-anatomy/)
 - [STARK Brainfuck Tutorial](https://neptune.cash/learn/brainfuck-tutorial/)
 - [ETH Spring ZKP](https://ethspring.com/docs/zero-knowledge/0-preface/)
+- [Cryptography by Nakov](https://cryptobook.nakov.com/)
 
 ## Resource Libs
 
@@ -53,6 +54,7 @@ See Also - [Circom](https://github.com/nullity00/web3-resources/blob/main/Learni
 - [Generate Randomness using SNARKS](https://www.paradigm.xyz/2023/01/eth-rng)
 - [Pinocchio VM](https://www.notamonadtutorial.com/pinocchio-virtual-machine-nearly-practical-verifiable-computation/)
 - [Learn Cryptography](https://medium.com/@vixentael/how-to-start-learning-cryptography-49e7d91b54a8)
+- [Elliptic curve for eth](https://hackmd.io/@blockdev/BJIW0Rlr3)
 
 ## Others
 

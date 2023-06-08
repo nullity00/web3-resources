@@ -1,6 +1,6 @@
 ## For MEV Bots
 
-
+- [Library of MEV Resources](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
 - [flashbots](https://www.flashbots.net/)
 - [BowTiedDevil](https://degencode.substack.com/p/start-here)
 - [Arbitrage bot](https://medium.com/coinmonks/build-a-flash-loan-arbitrage-bot-on-uniswap-9f749ee20ab9) on Uniswap
