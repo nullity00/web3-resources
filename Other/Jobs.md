@@ -20,4 +20,20 @@
 - [Superteam](https://earn.superteam.fun/)
 - [Surge](https://docs.google.com/forms/d/e/1FAIpQLSecUqatXpcrTXTdtH5peBKANVaJD2Klof5M7DhRmXKOIbvdzg/viewform) - Female Only
 - [Angel List](https://angel.co/)
+- [Audit Jobs](https://www.auditjobs.xyz/)
+- [ZK Jobs](https://jobsboard.zeroknowledge.fm/jobs/)
+
+## VC Job Boards
+
+- [a16z](https://a16zcrypto.com/jobs/companies/)
+- [Framework Ventures](https://jobs.framework.ventures/jobs)
+- [Dragon Fly](https://jobs.dragonfly.xyz/jobs)
 - [Paradigm](https://www.paradigm.xyz/opportunities)
+- [Polychain Jobs](https://jobs.polychain.capital/jobs)
+- [Coinbase Ventures](https://coinbase.getro.com/jobs)
+- [Jump Crypto](https://portfoliojobs.jumpcrypto.com/jobs)
+- [Pantera Capital](https://jobs.panteracapital.com/jobs)
+- [Binance](https://jobs.lever.co/binance/)
+- [Signum Capital](https://jobs.signum.capital/jobs)
+- [LD Capital](https://ldcap.com/jobs)
+- [LDG](https://jobs.dcg.co/jobs)
