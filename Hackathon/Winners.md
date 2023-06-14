@@ -16,3 +16,6 @@
 - [ETH Lisbon 2023](https://twitter.com/ethglobal/status/1657794093802483714)
 - [ETH Seoul 2023](https://ethseoul2023.devfolio.co/projects?show_winners=true)
 - [ETH Belgrade 2023](https://taikai.network/ethbelgrade/hackathons/hackathon-2023/projects) - [Winners](https://twitter.com/ethbelgrade/status/1667099119351914497)
+- [Autonomous Worlds 2023 Finalists](https://twitter.com/ETHGlobal/status/1662142905048350724)
+- [ETH Tokyo 2023 Finalists](https://twitter.com/ETHGlobal/status/1647524426450083840)
+- [Scaling Ethereum 2023 Finalists](https://twitter.com/ETHGlobal/status/1641821457943605252)
