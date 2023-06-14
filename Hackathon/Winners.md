@@ -14,3 +14,5 @@
 - [Hack FEVM 2022 Finalists](https://twitter.com/ETHGlobal/status/1594484628341264384)
 - [Space Warp Finalists](https://twitter.com/ETHGlobal/status/1624105995738677262)
 - [ETH Lisbon 2023](https://twitter.com/ethglobal/status/1657794093802483714)
+- [ETH Seoul 2023](https://ethseoul2023.devfolio.co/projects?show_winners=true)
+- [ETH Belgrade 2023](https://taikai.network/ethbelgrade/hackathons/hackathon-2023/projects) - [Winners](https://twitter.com/ethbelgrade/status/1667099119351914497)
