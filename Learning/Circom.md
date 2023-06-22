@@ -20,10 +20,14 @@
 - [Circomjs](https://github.com/getZeFi/circomjs)
 - [Circom-helper](https://github.com/weijiekoh/circom-helper)
 - [Circom lsp](https://github.com/rubydusa/circom-lsp)
+- [Ecne](https://github.com/franklynwang/EcneProject)
+- [Picus](https://github.com/Veridise/Picus)
+- [Coda](https://github.com/Veridise/Coda)
+- 
 
 ### Research 
 
-- [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2023/190.pdf)
+- [Practical Security Analysis of Zero-Knowledge Proof Circuits - ZKAP](https://eprint.iacr.org/2023/190.pdf)
 
 ### Projects
 
