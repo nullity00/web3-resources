@@ -106,4 +106,5 @@ See Also - [Circom](https://github.com/nullity00/web3-resources/blob/main/Learni
 ## Research
 
 - [Incremental Merkle Trees](https://arxiv.org/pdf/2105.06009v1.pdf)
+- [MEV Resistant ZK Rollups](https://ethresear.ch/t/mev-resistant-zk-rollups-with-practical-vde-pvde/12677)
 
