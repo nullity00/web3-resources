@@ -55,6 +55,7 @@ See Also - [Circom](https://github.com/nullity00/web3-resources/blob/main/Learni
 - [Pinocchio VM](https://www.notamonadtutorial.com/pinocchio-virtual-machine-nearly-practical-verifiable-computation/)
 - [Learn Cryptography](https://medium.com/@vixentael/how-to-start-learning-cryptography-49e7d91b54a8)
 - [Elliptic curve for eth](https://hackmd.io/@blockdev/BJIW0Rlr3)
+- [Halo2 tutorial](https://jtriley.substack.com/p/constructing-zk-snark-circuits?r=1qyfrf)
 
 ## Others
 
