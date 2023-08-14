@@ -18,7 +18,7 @@ See Also - [Circom](https://github.com/nullity00/web3-resources/blob/main/Learni
 - [30 days of zero knowledge](https://github.com/hasselalcala/DaysOfZeroKnowledge)
 - [Learn Cryptography from cryptohack.org](https://cryptohack.org/)
 - [Basic Cryptography from Neso Academy](https://www.nesoacademy.org/cs/11-cryptography-and-network-security/notes)
-- [Starks 101](https://github.com/lambdaclass/STARK101-rs)
+- [Starks 101](https://github.com/lambdaclass/STARK101-rs), [Build a STARK Prover](https://starkware.co/stark-101/)
 - [Neptune Cash STARK](https://neptune.cash/learn/stark-anatomy/)
 - [STARK Brainfuck Tutorial](https://neptune.cash/learn/brainfuck-tutorial/)
 - [ETH Spring ZKP](https://ethspring.com/docs/zero-knowledge/0-preface/)
