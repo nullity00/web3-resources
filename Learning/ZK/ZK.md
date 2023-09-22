@@ -89,6 +89,7 @@ See Also - [Circom](https://github.com/nullity00/web3-resources/blob/main/Learni
 - [Veridise](https://medium.com/@veridise/list/zero-knowledge-proof-5e7ecbd30b27)
 - [ZKSecurity](https://www.zksecurity.xyz/blog/)
 - [ZK Proof Community](https://community.zkproof.org/)
+- [Dankrad Fiest](https://dankradfeist.de/)
 
 ## Research
 
