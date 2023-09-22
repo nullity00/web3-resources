@@ -23,12 +23,7 @@
 - [Ecne](https://github.com/franklynwang/EcneProject)
 - [Picus](https://github.com/Veridise/Picus)
 - [Coda](https://github.com/Veridise/Coda)
-- 
 
 ### Research 
 
 - [Practical Security Analysis of Zero-Knowledge Proof Circuits - ZKAP](https://eprint.iacr.org/2023/190.pdf)
-
-### Projects
-
-- [Proof of Solvency](https://github.com/summa-dev/circuits-circom)

@@ -74,22 +74,8 @@ See Also - [Circom](https://github.com/nullity00/web3-resources/blob/main/Learni
 
 ## Tools
 
-- [Groth 16](https://xn--2-umb.com/22/groth16/)
-- [ZK Benchmark](https://www.zk-bench.org/)
-- [ZK Collective](https://zkcollective.org/)
-- [Gnark ZKSNARK Lib](https://github.com/ConsenSys/gnark)
 - [Visualize Bonding Curves](https://www.desmos.com/calculator/28itwn8nkh)
 - [Elliptic Curves](https://curves.xargs.org/)
-
-## Projects
-
-- [ZK Redit](https://zkredit.webflow.io/)
-- [ZK EMail](https://github.com/zkemail/zk-email-verify)
-- [Scroll](https://guide.scroll.io/contribute-to-scroll/contributing-to-scroll)
-- [GKR Protocol in Rust](https://github.com/alexander-camuto/rs-gkr)
-- [Proof of Execution in Scroll](https://ethglobal.com/showcase/zk-proof-of-evm-execution-ix960)
-- [timelock using zk](https://github.com/timoth-y/zk-timelock)
-- [ZK Merkle tree](https://github.com/TheBojda/zk-merkle-tree)
 
 ## Blogs
 
