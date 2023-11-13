@@ -45,3 +45,4 @@
 - [ETH VM Opcodes](https://ethervm.io/)
 - [Stablecoin PnL](https://www.nymnio.com/)
 - [Louper for Diamond Smart Contracts](https://louper.dev/)
+- [Minitel - Raw transaction decoder](https://minitel.wtf/)
