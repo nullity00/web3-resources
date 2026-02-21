@@ -13,6 +13,7 @@
 - [Cryptojobs Daily](https://careers.cryptojobsdaily.com/jobs)
 - [Rarestone capital](https://careers.rarestone.capital/jobs)
 - [CryptoJobsList](https://cryptojobslist.com/)
+- [SailOnChain](https://sailonchain.com/) - Crypto & Web3 job board with 1,400+ active listings from top blockchain companies, global remote roles and salary intelligence
 - [Crypto Jobs](https://crypto.jobs/)
 - [Remote3](https://remote3.co/)
 - [UseWeb3](https://www.useweb3.xyz/jobs)
